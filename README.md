@@ -1,1 +1,1 @@
-# Randon-Video-Clipper
+# Random-Video-Clipper
