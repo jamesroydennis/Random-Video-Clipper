@@ -1,3 +1,22 @@
+# 🎬 Video Montage Creator
+
+This Python script creates a 20-minute montage by:
+- Randomly selecting 10 `.mp4` videos from a given folder
+- Extracting a 2-minute random clip from each
+- Concatenating all 10 clips into a single video using FFmpeg
+
+---
+
+## ✅ Requirements
+
+- **Python 3.8+**
+- **FFmpeg** (`ffmpeg` and `ffprobe`) must be installed and in your system PATH
+- No external Python packages required
+
+---
+
+## 📁 Folder Structure
+
 
 > You can store your `.mp4` files in any folder; just pass the path when running the script.
 
