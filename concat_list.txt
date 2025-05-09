@@ -1,10 +1,1 @@
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_0.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_1.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_2.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_3.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_4.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_5.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_6.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_7.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_8.mp4'
-file 'F:\MyFiles\Deepfake\Videos\4-Completed\Elise\NewProject\output\clip_9.mp4'
+
